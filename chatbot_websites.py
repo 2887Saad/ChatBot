@@ -12,7 +12,7 @@ Original file is located at
 !pip install openai
 
 import os
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 urls = [
     'https://www.mosaicml.com/blog/mpt-7b',
